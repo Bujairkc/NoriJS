@@ -1,4 +1,4 @@
-# Remora Engine Media Playback Engine
+# Nori (NoriJS) Engine Media Playback Engine
 
 A custom browser-based media playback engine designed for **progressive, range-based playback of MKV and MP4 media**.
 
@@ -776,7 +776,7 @@ Some of the technically interesting parts of the project are:
 
 # Project Summary
 
-**Remora Engine** is a custom range-based media playback architecture that bridges the gap between raw container formats and browser-native playback.
+**Nori Engine** is a custom range-based media playback architecture that bridges the gap between raw container formats and browser-native playback.
 
 Instead of treating a video as a simple sequential byte stream, it understands the internal structure of the container and uses that structure to answer a fundamental playback question:
 
